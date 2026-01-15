@@ -59,14 +59,7 @@ https://github.com/pravinkarthikns149-bot/Snake-game1
 
 ---
 
-## 🚀 How to Run the Game
 
-1. Clone or download the repository  
-2. Open the project folder  
-3. Double-click `index.html`  
-4. Play the game in any modern browser  
-
-_No installation required._
 
 ---
 
